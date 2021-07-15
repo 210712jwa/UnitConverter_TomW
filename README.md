@@ -4,7 +4,7 @@
 
 2.  clone GIT repository created above to local drive GIT project area
 	
-	git clone https://github.com/tlw8253/UnitConverter.git
+	git clone https://github.com/210712jwa/UnitConverter_TomW.git
 
 3.  move project directories and files in to local drive GIT project area
 
@@ -32,7 +32,7 @@
 ## Steps to take to download files, compile files, and run Java Program
 1.  clone repository to your local project area
     
-    git clone https://github.com/tlw8253/UnitConverter.git
+    git clone https://github.com/210712jwa/UnitConverter_TomW.git
     
 2. open Git Bash
 3. cd to the UnitConverter source code conatined under src/main (example directory structure):
